@@ -1,6 +1,6 @@
 # sklearn-feature-engineering
 ## 前言
-博主最近参加了几个kaggle比赛，发现做特征工程是其中很重要的一部分，而sklearn是做特征工程（做模型调算法）最常用也是最好用的工具没有之一，因此将自己的一些经验做一个总结分享给大家，希望对大家有所帮助。大家也可以到我的博客上看 [https://blog.csdn.net/fuqiuai/article/details/79496005](https://blog.csdn.net/fuqiuai/article/details/79496005)
+最近参加AI比赛，发现做特征工程是其中很重要的一部分，而sklearn是做特征工程（做模型调算法）最常用也是最好用的工具没有之一，因此将学习到的知识分享处理。参考的下面这位老师的博客： [https://blog.csdn.net/fuqiuai/article/details/79496005](https://blog.csdn.net/fuqiuai/article/details/79496005)
 
 #### <a href="#1">1. 什么是特征工程？</a>
 #### <a href="#2">2. 数据预处理</a>
