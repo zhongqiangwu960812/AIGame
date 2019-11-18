@@ -1,4 +1,4 @@
-# AIGame - A recoding of a expreience about playing AI Game
+# A recoding of a expreience about playing AI Game
 
 这里分享一个机器学习打比赛的一个板子：https://blog.csdn.net/wuzhongqiang/article/details/103116953<br>
 机器学习和深度学习一旦入坑，学习知识最快的方式就是多做项目，找一些比赛打，像Kaggle， 阿里的天池等，很多很多的比赛，从实用的角度，然后再哪里不会补哪里。一开始的重点不是要求自己开始做，然后能达到多少分的排名，而是和排名靠前的大佬学习处理数据的技巧和方法，我觉得这才是关键，通过Kaggle的入门-房价预测的比赛，我学习到了很多知识，这里先整理一个宏观的比赛模板。这个模板可以适用于数据分析比赛或者项目。
