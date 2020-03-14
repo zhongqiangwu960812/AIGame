@@ -10,4 +10,4 @@
 > 赛题背景：
 >> [2019年天池的一个比赛](https://tianchi.aliyun.com/competition/entrance/231695/information), 我们这次来做一个工业化生产预测的项目，任务目标是利用异烟酸生产过程中的各参数， 预测最终异烟酸的收率。这一次我们首先会学习数据检查和问题的修正，在这里面会用到一个强大的数据探索性分析工具pandas_profiling。然后学习如何根据原来的数据做特征工程， 在这里面会有时间特征应该怎么利用，时间段特征应该如何处理， 然后使用xgboost模型对异烟酸的收率进行预测，最后会对本次比赛的知识点进行总结。
 >
-> 博客链接：[]()
+> 博客链接：[https://blog.csdn.net/wuzhongqiang/article/details/104841251](https://blog.csdn.net/wuzhongqiang/article/details/104841251)
